@@ -1,5 +1,5 @@
 # react-native-frame
-wireframe application for react native with mobx / styled-component / react-navigation
+wireframe application for react native with mobx / styled-components / react-navigation
 
 ## Version compatible
 this project is configured with RN 0.61.4, created by `npx react-native init`
@@ -17,5 +17,6 @@ this project is configured with RN 0.61.4, created by `npx react-native init`
 1. in terminal, `cd YOUR_APP_NAME`, `npm install`
 1. `cd ios`, `pod install`, `cd ..`
 1. hit `react-native run-ios`or run with your `test.xcworkspace` file in `ios/` directory
+1. change **name** in `package.json` to `YOUR_APP_NAME`
 
 that's all. enjoy!
