@@ -14,9 +14,9 @@ this project is configured with RN 0.61.4, created by `npx react-native init`
 
 1. in terminal, `npx react-native init YOUR_APP_NAME`
 1. copy `App.js / bable.config.js / index.js / package.json / src` from your app directory
+1. change **name** in `package.json` to `YOUR_APP_NAME`
 1. in terminal, `cd YOUR_APP_NAME`, `npm install`
 1. `cd ios`, `pod install`, `cd ..`
 1. hit `react-native run-ios`or run with your `test.xcworkspace` file in `ios/` directory
-1. change **name** in `package.json` to `YOUR_APP_NAME`
 
 that's all. enjoy!
